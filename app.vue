@@ -2,7 +2,7 @@
   <div>
     <div class="navbar bg-base-100">
   <div class="flex-1">
-    <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+    <a class="btn btn-ghost normal-case text-xl"><NuxtLink to="/"> daisyUI </NuxtLink></a>
   </div>
   <div class="flex-none">
     <div class="dropdown dropdown-end">
@@ -18,7 +18,7 @@
         <div class="card-body">
           <span class="font-bold text-lg">Sign In</span>
           <div class="card-actions">
-            <button class="btn btn-primary btn-block">Sign In</button>
+            <button class="btn btn-primary btn-block"> Sign in</button>
           </div>
         </div>
       </div>
@@ -45,3 +45,6 @@
   <NuxtPage />
   </div>
 </template>
+<script>
+     
+</script>

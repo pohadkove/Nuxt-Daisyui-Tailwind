@@ -11,7 +11,7 @@
     <div>
       <h1 class="text-5xl font-bold">Charts</h1>
       <p class="py-6">Clean minimal chart generation.</p>
-      <button class="btn btn-primary">Get Started</button>
+      <button class="btn btn-primary"><NuxtLink to="/charts"> Get Started </NuxtLink></button>
     </div>
   </div>
 </div>
